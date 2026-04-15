@@ -97,7 +97,7 @@ Includes pivot tables and dashboards showing:
 ### 📊 Netflix Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard/NetflixDashboardUsingLookerStudio.png" width="900">
+  <img src="./Dashboard/dashboard1.png" width="900">
 </p>
 
 ---
@@ -105,10 +105,8 @@ Includes pivot tables and dashboards showing:
 ### 📊 User Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard/NetflixUserAnalysisDashboard.png" width="900">
+  <img src="./Dashboard/dashboard2.png" width="900">
 </p>
-
----
 
 ## 9. Conclusion
 
