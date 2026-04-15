@@ -94,18 +94,18 @@ Includes pivot tables and dashboards showing:
 
 ## 8. Dashboard Images
 
-### 📊 Netflix Analysis Dashboard
+Below is the dashboard created for visual analysis:
 
 <p align="center">
-  <img src="./Dashboard/dashboard1.png" width="900">
+  <img src="./Dashboard/Dashboard1.png" width="900">
 </p>
 
 ---
 
-### 📊 User Analysis Dashboard
+Below is the dashboard created for user analysis:
 
 <p align="center">
-  <img src="./Dashboard/dashboard2.png" width="900">
+  <img src="./Dashboard/Dashboard2.png" width="900">
 </p>
 
 ## 9. Conclusion
