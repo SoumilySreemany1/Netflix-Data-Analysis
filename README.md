@@ -160,18 +160,18 @@ Dashboard visuals include:
 
 ## 9. Dashboard Image
 
-### 📊 User Analysis Dashboard
+###  Netflix Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard/Netflix Dashboard Using Looker Studio.png" width="900">
+  <img src="Dashboard/NetflixDashboardUsingLookerStudio.png" width="900">
 </p>
 
 ---
 
-### 📊 Looker Studio Dashboard
+###   User Studio Dashboard
 
 <p align="center">
-  <img src="Dashboard/Netflix User Analysis Dashboard.png" width="900">
+  <img src="Dashboard/NetflixUserAnalysisDashboard.png" width="900">
 </p>
 
 ---
