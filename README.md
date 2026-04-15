@@ -33,7 +33,8 @@ The workflow starts from raw data and proceeds through cleaning, pivot-table ana
 | Clean Dataset | `Clean Dataset/Clean movies - movies.pdf` | PDF export of cleaned sheet |
 | Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis1.xlsx` | Pivot analysis workbook (v1) |
 | Pivot Tables and Calculations | `Pivot Tables and Calculations/Movies Pivot Data Analysis2.xlsx` | Pivot analysis workbook (v2) |
-| Dashboard | `Dashboard/Screenshot 2026-02-24 011043.png` | Dashboard screenshot |
+| Dashboard | `Dashboard/netflix-user-analysis.png` | User analysis dashboard |
+| Dashboard | `Dashboard/netflix-looker-dashboard.png` | Looker Studio dashboard |
 
 ---
 
@@ -159,17 +160,18 @@ Dashboard visuals include:
 
 ## 9. Dashboard Image
 
-Below is the dashboard created for visual analysis:
+### 📊 User Analysis Dashboard
 
 <p align="center">
-  <img src="Dashboard/Netflix User Analysis Dashboard.png" width="900">
+  <img src="Dashboard/Netflix Dashboard Using Looker Studio.png" width="900">
 </p>
 
 ---
-Below is the dashboard created for user analysis:
+
+### 📊 Looker Studio Dashboard
 
 <p align="center">
-<img src="Dashboard/Netflix Dashboard Using Looker Studio.png" width="900" >
+  <img src="Dashboard/Netflix User Analysis Dashboard.png" width="900">
 </p>
 
 ---
