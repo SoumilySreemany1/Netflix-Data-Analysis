@@ -77,10 +77,10 @@ The workflow starts from raw data and proceeds through cleaning, pivot-table ana
 
 Includes pivot tables and dashboards showing:
 
-- Content distribution
-- IMDb ratings comparison
-- Investment vs returns
-- Country-wise analysis
+- Content distribution  
+- IMDb ratings comparison  
+- Investment vs returns  
+- Country-wise analysis  
 
 ---
 
@@ -112,9 +112,9 @@ Includes pivot tables and dashboards showing:
 
 ## 9. Conclusion
 
-- Movies dominate content and revenue
-- Strong ROI across dataset
-- USA leads in production and returns
+- Movies dominate content and revenue  
+- Strong ROI across dataset  
+- USA leads in production and returns  
 
 ---
 
